@@ -38,7 +38,7 @@
                      <a class="nav-link" href="/index.html">Back to home</a>
                    </li>
                   <li class="nav-item">
-                     <a class="nav-link" href="/Register.html">Register</a>
+                     <a class="nav-link" href="/login.html">Login</a>
                    </li>
                  </ul>
                </div>  
@@ -48,10 +48,11 @@
             <div class="container">
                     <form action="">
                 <h1>Resgister</h1>
-                <input type="text" placeholder="Username">
-                <input type="password" placeholder="Password">
-                <input type="password" placeholder="Confirm password">
-                <input class="btn-signin" type="submit" value="Sign in">
+                <input type="text" id="username" placeholder="Username">
+                <input type="password"id="password" placeholder="Password">
+                <input type="password" id= "confirm_password"placeholder="Confirm password">
+                <h3 id="regMessage"></h3>
+                <input class="btn-signin"id="sign_in" onclick="register(event)" type="submit" value="Register">
                     </form>
                    
                 </div>
@@ -70,5 +71,7 @@
       integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
       crossorigin="anonymous"
     ></script>
+
+    <script src="./js/register.js"></script>
   </body>
 </html>
