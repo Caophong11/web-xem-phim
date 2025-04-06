@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Phim Pokemon",
+        "rating": 5,
+        "director": "CaoPhong",
+        "description": "abc",
+        "image": "./images/tải xuống (1).jpg"
+    },
+    {
+        "id": 2,
+        "name": "Phim Avatar",
+        "rating": 4,
+        "director": "James Cameron",
+        "description": "Một câu chuyện khoa học viễn tưởng về hành tinh Pandora.",
+        "image": "./images/OIP (6).jpg"
+    },
+    {
+        "id": 3,
+        "name": "Phim Inception",
+        "rating": 5,
+        "director": "Christopher Nolan",
+        "description": "Một bộ phim giả tưởng về giấc mơ và thực tại.",
+        "image": "./images/OIP (7).jpg"
+    },
+    {
+        "id": 4,
+        "name": "Phim Titanic",
+        "rating": 4.5,
+        "director": "James Cameron",
+        "description": "Câu chuyện tình lãng mạn trên tàu Titanic.",
+        "image": "./images/OIP (8).jpg"
+    },
+    {
+        "id": 5,
+        "name": "Phim The Dark Knight",
+        "rating": 5,
+        "director": "Christopher Nolan",
+        "description": "Bộ phim hành động về Batman chống lại Joker.",
+        "image": "./images/OIP (9).jpg"
+    },
+    {
+        "id": 6,
+        "name": "Phim The Avengers",
+        "rating": 4.5,
+        "director": "Joss Whedon",
+        "description": "Nhóm siêu anh hùng Marvel hợp sức để cứu thế giới.",
+        "image": "./images/OIP (10).jpg"
+    },
+    {
+        "id": 7,
+        "name": "Phim The Matrix",
+        "rating": 5,
+        "director": "Lana Wachowski, Lilly Wachowski",
+        "description": "Một bộ phim khoa học viễn tưởng về thế giới ảo và sự thức tỉnh.",
+        "image": "./images/OIP (18).jpg"
+    },
+    {
+        "id": 8,
+        "name": "Phim Star Wars: A New Hope",
+        "rating": 4.5,
+        "director": "George Lucas",
+        "description": "Câu chuyện về cuộc phiêu lưu của Luke Skywalker trong vũ trụ.",
+        "image": "./images/tải xuống (3).jpg"
+    },
+    {
+        "id": 9,
+        "name": "Phim Jurassic Park",
+        "rating": 4,
+        "director": "Steven Spielberg",
+        "description": "Công viên khủng long nơi mà các loài khủng long được tái tạo.",
+        "image": "./images/OIP (11).jpg"
+    },
+    {
+        "id": 10,
+        "name": "Phim The Lion King",
+        "rating": 5,
+        "director": "Jon Favreau",
+        "description": "Bộ phim hoạt hình về cuộc sống hoang dã ở châu Phi.",
+        "image": "./images/OIP (12).jpg"
+    },
+    {
+        "id": 11,
+        "name": "Phim Frozen",
+        "rating": 4.5,
+        "director": "Chris Buck, Jennifer Lee",
+        "description": "Câu chuyện về hai chị em Elsa và Anna trong thế giới băng giá.",
+        "image": "./images/OIP (13).jpg"
+    },
+    {
+        "id": 12,
+        "name": "Phim Harry Potter and the Sorcerer's Stone",
+        "rating": 5,
+        "director": "Chris Columbus",
+        "description": "Câu chuyện đầu tiên của cậu bé phù thủy Harry Potter.",
+        "image": "./images/OIP (14).jpg"
+    },
+    {
+        "id": 13,
+        "name": "Phim The Godfather",
+        "rating": 5,
+        "director": "Francis Ford Coppola",
+        "description": "Bộ phim về gia đình Mafia Corleone.",
+        "image": "./images/OIP (15).jpg"
+    },
+    {
+        "id": 14,
+        "name": "Phim The Shawshank Redemption",
+        "rating": 5,
+        "director": "Frank Darabont",
+        "description": "Câu chuyện về sự giải thoát và tình bạn trong nhà tù Shawshank.",
+        "image": "./images/OIP (16).jpg"
+    },
+    {
+        "id": 15,
+        "name": "Phim Gladiator",
+        "rating": 4.5,
+        "director": "Ridley Scott",
+        "description": "Câu chuyện của một chiến binh La Mã trở thành gladiator.",
+        "image": "./images/OIP (17).jpg"
+    }
+]

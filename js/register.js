@@ -31,8 +31,7 @@ function register(event) {
     }
     let user = {
         username: username,
-        password: password,
-        confirm_password: confirm_password,
+        password: password
     };
     let users = localStorage.getItem('users') ? JSON.parse(localStorage.getItem('users')) : {};
 
